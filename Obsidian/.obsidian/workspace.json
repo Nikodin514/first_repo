@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d72bdf9c5406baf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книга.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Книга"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16d020adfed317bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "129d71ebeaa11b0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "326091e94aea4137",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "eccf8ec998006591",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d8e58d52c181cf58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "68cacea52cf4d0fd",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.51103591918945
+  },
+  "right": {
+    "id": "f075a8bd310c7657",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9e13e7763982523",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed3a0ad3e7854454",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Без названия.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Без названия"
+            }
+          },
+          {
+            "id": "98b1edfe31d871b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deutsch/Другой вид müssen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Другой вид müssen"
+            }
+          },
+          {
+            "id": "960887dbecce6b3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "584f43daeb4b38f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deutsch/Другой вид müssen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Другой вид müssen"
+            }
+          },
+          {
+            "id": "32900d755e051646",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "omnisearch:Omnisearch": false,
+      "super-duper-audio-recorder:Start/Stop Recording": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "2d72bdf9c5406baf",
+  "lastOpenFiles": [
+    "Git Test.md",
+    "Книга.md",
+    "Сессии/Темы к рассмотрению.md",
+    "Сессии/Общий сбор.md",
+    "Brauche/Files/image 2.png",
+    "Brauche/Templates/css.md.md",
+    "Brauche/Excalidraw/Drawing 2025-06-26 15.36.39.excalidraw.md",
+    "Deutsch/Modalverben.md",
+    "Mathe/Геометрия/Цилиндр конус шар.canvas",
+    "Сессии/Течение сессии.md",
+    "Brauche/Files/Pasted image 20250707141830.png",
+    "Brauche/Files/Pasted image 20250707141816.png",
+    "Brauche/Files/Pasted image 20250707131246.png",
+    "Справочная/Список вещей в поездку.md",
+    "Справочная/Про обучение программированию.md",
+    "Справочная/Пароли.md",
+    "Справочная/Места для практики.md",
+    "Deutsch/Другой вид müssen.md",
+    "Справочная/Классные места.md",
+    "Справочная/Идеи.md",
+    "Сессии/В Obsidian.md",
+    "Справочная/Вау - одежда.md",
+    "Справочная/Notion красота.md",
+    "Справочная/Старое видение системы.md",
+    "Brauche/Files/~$кумент Microsoft Word.docx",
+    "Справочная/Харизматичная дама.md",
+    "Справочная/Хорошее обсидиан видео.md",
+    "Programming",
+    "Brauche/Files/video5407102197731192638.mp4",
+    "Brauche/Files/Pasted image 20250628144135.png",
+    "Brauche/Files/Pasted image 20250628143827.png",
+    "Brauche/Files/Pasted image 20250626164404.png",
+    "Deutsch/Замена können in Passiv.md",
+    "Deutsch/Замены.canvas",
+    "Deutsch/Нужно и не нужно.md",
+    "Brauche/Files/Pasted image 20250626164151.png",
+    "Brauche/Files/Pasted image 20250626163753.png",
+    "Brauche/Files/Pasted image 20250626163614.png",
+    "Цилиндр ,шар и конус.md",
+    "Deutsch/тренировка.md",
+    "Mathe/Геометрия",
+    "Brauche/Excalidraw",
+    "Mathe",
+    "Deutsch",
+    "Excalidraw/Без названия",
+    "Сессии",
+    "Notion",
+    "Без названия 1.canvas",
+    "Без названия 2.canvas"
+  ]
+}
